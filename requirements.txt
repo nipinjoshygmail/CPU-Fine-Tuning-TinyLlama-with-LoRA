@@ -1,0 +1,8 @@
+# Minimal dependencies for LLM_training_demo
+torch
+transformers
+datasets
+peft
+accelerate
+# Optional (quantized training) - install manually on compatible systems
+# bitsandbytes

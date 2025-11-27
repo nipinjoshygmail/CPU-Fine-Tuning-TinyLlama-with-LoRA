@@ -1,0 +1,176 @@
+{"instruction": "What is the goal of the TM Forum Catalyst program?", "response": "To put competition aside to invent the network of the future for the good of the world."}
+{"instruction": "What does a CSP need to understand to engage better with customers?", "response": "Customer business processes."}
+{"instruction": "What kind of service request did Coupler enable the provisioning of?", "response": "Inter-carrier service request."}
+{"instruction": "What is the primary purpose of Context-Specific APIs?", "response": "To simplify applications like 5G network slicing."}
+{"instruction": "What must CSPs include in their architecture for seamless integration?", "response": "Standardized Open APIs."}
+{"instruction": "What enables mission-critical resources to be automatically decommissioned?", "response": "Dynamic application deployment and edge orchestration."}
+{"instruction": "What is the purpose of the DHVCC regarding decision-making?", "response": "To enhance decision-making during emergencies."}
+{"instruction": "What did Coupler provide built-in?", "response": "Security."}
+{"instruction": "What are Open APIs critical for enabling?", "response": "Interoperability between ODA Components."}
+{"instruction": "What must applications be deployed dynamically at the edge to prevent?", "response": "Risks linked to latency or network outages."}
+{"instruction": "The autonomous networks hyperloop is based on Intent that is what?", "response": "Extracted and decomposed into each layer."}
+{"instruction": "What type of network needs to be deployed for MCICC high-speed connectivity?", "response": "Dedicated communication networks."}
+{"instruction": "What did the Catalyst team use to create the unified service exposure layer?", "response": "Torry Harris API Manager (TH-APIM)."}
+{"instruction": "What did the implementation of Coupler enable for the TM Forum and MEF standards?", "response": "Seamless service interoperability."}
+{"instruction": "What must telcos avoid developing and exposing for the same process if they use Coupler?", "response": "Two separate API sets."}
+{"instruction": "What must application resources deployed at the edge be automatically set to do after use?", "response": "Decommissioned."}
+{"instruction": "The TMF 620 Product Catalog Management API includes a REST API in which service?", "response": "Service Catalog and Design."}
+{"instruction": "What must CSPs use Open APIs for to achieve monetization?", "response": "Frictionless Partnering."}
+{"instruction": "What are Open APIs essential for supporting?", "response": "Standardization."}
+{"instruction": "What are the current v4 Open APIs foundational to?", "response": "The smooth integration of products and services."}
+{"instruction": "Why do e-commerce APIs use nesting?", "response": "To group related information in logical end points."}
+{"instruction": "What level of Frameworx training is the Overview course?", "response": "Foundation."}
+{"instruction": "What concept extends the DHVCC to dangerous industry environments?", "response": "MCICC."}
+{"instruction": "Who needs to agree on the payload definition for Context-Specific APIs?", "response": "Ecosystem partners."}
+{"instruction": "What allows mission-critical resources to be automatically decommissioned?", "response": "Dynamic application deployment and edge orchestration."}
+{"instruction": "The initial goal of TM Forum in 1988 was the creation of what?", "response": "Interoperable network management products."}
+{"instruction": "What is the final section in the Frameworx Overview course syllabus?", "response": "TM Forum Strategic Projects."}
+{"instruction": "What kind of architecture is required to speed up 'time to value'?", "response": "Plug-and-play software integration."}
+{"instruction": "What is the purpose of the ODA Canvas regarding DevOps?", "response": "It automates releases in a DevOps CI/CD pipeline."}
+{"instruction": "What reduces API development effort by 50%?", "response": "Coupler."}
+{"instruction": "What benefit does Frameworx offer by providing a holistic view?", "response": "Value derived from the holistic view."}
+{"instruction": "The process map covers the whole value chain by including what two types of activities?", "response": "Customer facing activities and supplier facing/support activities."}
+{"instruction": "What enables MCICC operators to detect failures?", "response": "Digital twin and analytics."}
+{"instruction": "What types of APIs are provided in REST and Async versions?", "response": "Universal Open APIs."}
+{"instruction": "What were the three categories the Catalyst project was a finalist in?", "response": "Outstanding Catalyst Showcase award (winner), Sustainability and Impact on Society (finalist), and Best Innovation and Future Techco (finalist)."}
+{"instruction": "What is the purpose of the Gen5 APIs supporting intent embedded in payloads?", "response": "Allows requests to be expressed in general language."}
+{"instruction": "What must CSPs use to ensure plug-and-play software integration?", "response": "Open APIs."}
+{"instruction": "What are two results from using Coupler?", "response": "Global carrier interoperability and 50% reduction in API development effort."}
+{"instruction": "What technology is critical for connecting citizens to friends and family during crises?", "response": "Telecommunications networks."}
+{"instruction": "What does Frameworx allow Service Providers to create that is less ambiguous?", "response": "A more focussed and less ambiguous RFx."}
+{"instruction": "What types of resources are represented by REST APIs in TMF?", "response": "Individual Resources."}
+{"instruction": "What organization is an association for service providers and their suppliers in the telecommunications and entertainment industries?", "response": "TM Forum."}
+{"instruction": "What is the name of the framework that supports customer experience management (CEM)?", "response": "Frameworx."}
+{"instruction": "What specific use case utilizes Context-Specific APIs?", "response": "5G network slicing."}
+{"instruction": "The Foundational advantage positions Universal Open APIs as a platform for which industry initiatives?", "response": "CAMARA and MEF."}
+{"instruction": "Which framework is covered in Module 4 of the Frameworx Overview course syllabus?", "response": "The Application Framework (TAM)."}
+{"instruction": "What kind of services are covered by the TMF Open API category 'Resource Management'?", "response": "Telecommunications."}
+{"instruction": "What is the complexity associated with integrating TMF APIs and Non-TMF compliant SaaS APIs?", "response": "Data mapping."}
+{"instruction": "What kind of operations should be performed carefully due to latency risks?", "response": "Mission critical operations."}
+{"instruction": "What does the ODA Canvas automate?", "response": "Releases in a DevOps CI/CD pipeline."}
+{"instruction": "The Frameworx Overview course is available in which three formats?", "response": "Onsite, online, and virtual."}
+{"instruction": "What two elements are used in the DHVCC to provide a real-time view?", "response": "Metaverse and digital twin."}
+{"instruction": "Who is the editor in chief of TM Forum Inform?", "response": "Joanne Taaffe."}
+{"instruction": "What component is built out of one or more microservices in ODA?", "response": "ODA Component."}
+{"instruction": "Which major process area of eTOM includes the rows Service Management & Operations?", "response": "Operations."}
+{"instruction": "What is the goal of the TM Forum Catalyst program?", "response": "To put competition aside to invent the network of the future for the good of the world."}
+{"instruction": "What does a CSP need to understand to engage better with customers?", "response": "Customer business processes."}
+{"instruction": "What kind of service request did Coupler enable the provisioning of?", "response": "Inter-carrier service request."}
+{"instruction": "What is the primary purpose of Context-Specific APIs?", "response": "To simplify applications like 5G network slicing."}
+{"instruction": "What must CSPs include in their architecture for seamless integration?", "response": "Standardized Open APIs."}
+{"instruction": "Who was one of the CSPs involved in Phase IV of the Catalyst?", "response": "NTT (or Chunghwa Telecom, TIM, or Verizon)."}
+{"instruction": "Who was one of the vendors involved in Phase IV of the Catalyst?", "response": "Beyond Now (or Furturewei or UBiqube)."}
+{"instruction": "What must CSPs utilize to ensure plug-and-play software integration?", "response": "Open APIs."}
+{"instruction": "How do autonomous networks respond to disruptions?", "response": "By dynamically reconfiguring the remaining network assets."}
+{"instruction": "The TMF Open APIs are based on what type of architecture?", "response": "RESTful."}
+{"instruction": "What is the purpose of the 'Digital twin and analytics' component in MCICC?", "response": "To reduce downtime and improve safety."}
+{"instruction": "What must be considered in API design for B2B2X providers?", "response": "Consumer focus."}
+{"instruction": "What is the primary method of standardization required for network monetization?", "response": "Open APIs."}
+{"instruction": "What type of integration does ODA aim to standardize?", "response": "Integration of components into the ODA Canvas."}
+{"instruction": "What is the definition of a common enterprise-independent terminology for service management?", "response": "A goal of TOM."}
+{"instruction": "What enables MCICC operators to train?", "response": "Digital twin and analytics."}
+{"instruction": "What can be extended or modified to add attributes to a resource in TMF APIs?", "response": "The 'Types' of resources."}
+{"instruction": "What is the objective of the Metaverse enablement through standard APIs Catalyst?", "response": "Showcasing end-to-end CAMARA use cases based on TM Forum Open APIs."}
+{"instruction": "Frameworx assists Service Providers in which specific process regarding purchasing software?", "response": "Procurement requests (RFx)."}
+{"instruction": "What did the alignment between TM Forum and MEF LSO Sonata APIs aim to achieve?", "response": "Automation of B2B services."}
+{"instruction": "The DHVCC leverages metaverse and digital twin components to provide a view of what three elements?", "response": "Operations, assets, and infrastructure."}
+{"instruction": "What does a single API support in the Coupler case study?", "response": "TM Forum Open APIs and MEF standards."}
+{"instruction": "What specific API standard is used by the current v5 API definitions?", "response": "Open API v3."}
+{"instruction": "What is the primary purpose of Context-Specific APIs?", "response": "To agree on payload definition for certain applications."}
+{"instruction": "What kind of architecture is needed for growth acceleration?", "response": "Event-driven architectures."}
+{"instruction": "What is the primary risk associated with latency or network outages in critical operations?", "response": "Risks to human lives/safety."}
+{"instruction": "What is the highest level of the eTOM major areas?", "response": "Strategy, Infrastructure & Product."}
+{"instruction": "What is the goal of the ODA?", "response": "To offer a blueprint for a cloud native digital service provider."}
+{"instruction": "Why is aligning the API standards between TM Forum and MEF considered a significant step forward?", "response": "To automate B2B services."}
+{"instruction": "Which framework enables service providers to operate more efficiently?", "response": "Frameworx."}
+{"instruction": "What type of network connectivity is required for MCICC?", "response": "Reliable and high-speed network connectivity."}
+{"instruction": "What helps CSPs manage a large portfolio of products efficiently?", "response": "Product agnostic Universal Open APIs."}
+{"instruction": "What does ODA stand for?", "response": "Open Digital Architecture."}
+{"instruction": "What type of layer integration is required when connecting TMF APIs to e-commerce APIs?", "response": "Translation layers."}
+{"instruction": "The TMF 620 API is supported for what methods of product specification?", "response": "GET, POST, PATCH, and DELETE."}
+{"instruction": "Which framework is covered in Module 6 of the Frameworx Overview course syllabus?", "response": "Metrics."}
+{"instruction": "What are Gen5 Open APIs designed to support?", "response": "Event-driven architectures."}
+{"instruction": "The DHVCC helps organizations streamline what?", "response": "Operations."}
+{"instruction": "What is the primary challenge in integrating Non-TMF Compliant SaaS APIs?", "response": "Implementing all mandatory aspects of the TMF APIs."}
+{"instruction": "What is the goal of the Frameworx Overview course?", "response": "To understand how Frameworx can be used for transformation and success in the digital economy."}
+{"instruction": "How many downloads have the version 4 APIs achieved?", "response": "Over 780,000."}
+{"instruction": "What framework provides a common enterprise-independent terminology for service management?", "response": "TOM (Telecom Operation Map)."}
+{"instruction": "What types of disasters are included in the source?", "response": "Tornadoes, cyclones, flooding, earthquakes, and war."}
+{"instruction": "What must critical operations avoid?", "response": "Latency or network outages."}
+{"instruction": "Which framework enables service providers to be more agile?", "response": "Frameworx."}
+{"instruction": "What kind of services are covered by the TMF Open API category 'Customer Management'?", "response": "Telecommunications."}
+{"instruction": "What are the Gen5 APIs sometimes referred to as?", "response": "5th generation APIs."}
+{"instruction": "What kind of network infrastructure components are susceptible to physical destruction?", "response": "Cellphone towers (or Internet and power lines)."}
+{"instruction": "What is the key element defining the Autonomous Networks Hyperloop functionality?", "response": "Intent."}
+{"instruction": "What is the acronym for the Information Framework?", "response": "SID."}
+{"instruction": "What is the acronym for the Application Framework?", "response": "TAM."}
+{"instruction": "What did Coupler provide built-in?", "response": "Security."}
+{"instruction": "What does the ODA Canvas facilitate?", "response": "ODA Component execution."}
+{"instruction": "The TMF Open APIs are grouped into categories such as Customer Management and what else?", "response": "Service Assurance."}
+{"instruction": "What is the purpose of the ODA Canvas?", "response": "To provide an execution environment for ODA Components."}
+{"instruction": "Which framework can be used to support revenue assurance?", "response": "Frameworx."}
+{"instruction": "What does Frameworx enable service providers to do regarding RFx?", "response": "Create a more focussed and less ambiguous RFx."}
+{"instruction": "What is the purpose of the DHVCC regarding situational awareness?", "response": "To improve situational awareness."}
+{"instruction": "What organization is an association for service providers and their suppliers?", "response": "TM Forum."}
+{"instruction": "What did Coupler provide centralized management for?", "response": "All configuration and management activities."}
+{"instruction": "What allows mission-critical resources to be automatically decommissioned?", "response": "Edge orchestration."}
+{"instruction": "What is Frameworx used for?", "response": "Transformation and success in the digital economy."}
+{"instruction": "What organization is based on TM Forum Open APIs and GSMA's Open Gateway?", "response": "Linux Foundation's CAMARA project."}
+{"instruction": "What must a telco expose to enable interoperability?", "response": "APIs."}
+{"instruction": "What layer did the Catalyst team use for service exposure?", "response": "Torry Harris API Manager (TH-APIM)."}
+{"instruction": "What is the hierarchy of the Business Process Framework made up of?", "response": "5 levels."}
+{"instruction": "What did the TMF 620 Product Catalog Management API meet the specification for?", "response": "GET, POST, PATCH, and DELETE methods."}
+{"instruction": "Why is resilient communication channel critical when human lives are at risk?", "response": "They are a literal lifeline to connect citizens to worried friends and family."}
+{"instruction": "What reduces the guesswork in external and internal integration?", "response": "Standardized Open APIs."}
+{"instruction": "What is the relationship between the eTOM levels?", "response": "They form a hierarchy."}
+{"instruction": "Why are resilient network services needed?", "response": "To save lives in times of uncertainty and need."}
+{"instruction": "What are the three key advantages of Universal Open APIs?", "response": "Product agnostic, Developer friendly, Foundational."}
+{"instruction": "The DHVCC can help organizations enhance what during emergencies?", "response": "Decision-making."}
+{"instruction": "What must Open APIs evolve to meet?", "response": "The needs of the future."}
+{"instruction": "What kind of services are supported by the TMF Open APIs?", "response": "Telecommunications."}
+{"instruction": "What is the name of the framework that defines business processes?", "response": "Business Process Framework (eTOM)."}
+{"instruction": "What are the two types of Gen5 Open APIs?", "response": "Universal Open APIs and Context-Specific APIs."}
+{"instruction": "What is the hierarchy structure of eTOM?", "response": "Levels."}
+{"instruction": "Which framework is covered in Module 8 of the Frameworx Overview course syllabus?", "response": "TM Forum Strategic Projects."}
+{"instruction": "What does the concept of self-healing infrastructure rely on?", "response": "Autonomous networks hyperloop."}
+{"instruction": "What standard allows Suppliers to be better prepared to respond to RFx?", "response": "Frameworx."}
+{"instruction": "What type of resources are represented by REST APIs in TMF?", "response": "Tasks."}
+{"instruction": "What is the commercial manager of TM Forum Inform?", "response": "Timothy Edwards."}
+{"instruction": "What type of APIs are required to accelerate service deployment?", "response": "Gen5 Open APIs."}
+{"instruction": "What are the current v5 API definitions based on?", "response": "Open API v3."}
+{"instruction": "What is the goal of TOM?", "response": "The definition of a common enterprise-independent terminology for service management."}
+{"instruction": "What is the main benefit of 'Developer friendly' Universal Open APIs?", "response": "Rapid solution delivery."}
+{"instruction": "What is the process of exposing a single, secure API that supports multiple standards necessary for?", "response": "Successful API interoperability."}
+{"instruction": "What did the Catalyst project aim to use as an enabling framework?", "response": "Autonomous networks solutions."}
+{"instruction": "What is the acronym for the Business Process Framework?", "response": "eTOM."}
+{"instruction": "The Business Process Framework is an operating model framework for whom?", "response": "Telecom service providers."}
+{"instruction": "What framework is used to create a more focussed and less ambiguous RFx?", "response": "Frameworx."}
+{"instruction": "What are Open APIs critical for enabling?", "response": "Interoperability between ODA Components."}
+{"instruction": "What is the name of the framework that supports revenue assurance?", "response": "Frameworx."}
+{"instruction": "What is the primary method of standardization required for network monetization?", "response": "Open APIs."}
+{"instruction": "The ODA provides a blueprint for what kind of service provider?", "response": "Cloud native digital service provider."}
+{"instruction": "What are two results from using Coupler?", "response": "Reduced API development effort by 50% and seamless service interoperability."}
+{"instruction": "What is the goal of the CAMARA project?", "response": "To expose easy-to-use APIs to end-user developers."}
+{"instruction": "Which framework is covered in Module 1 of the Frameworx Overview course syllabus?", "response": "Frameworx Introduction."}
+{"instruction": "What did the alignment between TM Forum and MEF LSO Sonata APIs aim to achieve?", "response": "Automation of B2B services."}
+{"instruction": "What must a telco expose as part of digital transformation for service delivery?", "response": "APIs that enable interoperability across industry standards."}
+{"instruction": "What must be considered in API design for B2B2X providers?", "response": "Consumer focus."}
+{"instruction": "What is the purpose of the ODA Canvas?", "response": "To provide an execution environment for ODA Components and automation of releases in a DevOps CI/CD pipeline."}
+{"instruction": "Which framework is covered in Module 7 of the Frameworx Overview course syllabus?", "response": "Mappings between the Frameworks."}
+{"instruction": "What is the goal of the TM Forum Catalyst program?", "response": "To rapidly prototype solutions."}
+{"instruction": "What is the primary risk associated with latency or network outages in critical operations?", "response": "Risks to human safety/lives."}
+{"instruction": "What reduces the guesswork in external integration?", "response": "Standardized Open APIs."}
+{"instruction": "What are the TMF Open APIs defined as?", "response": "A set of RESTful APIs."}
+{"instruction": "What is the purpose of the DHVCC regarding situational awareness?", "response": "To improve situational awareness."}
+{"instruction": "What is the acronym for the Information Framework?", "response": "SID."}
+{"instruction": "What is the acronym for the Application Framework?", "response": "TAM."}
+{"instruction": "What must CSPs use Open APIs for to achieve monetization?", "response": "Frictionless Partnering."}
+{"instruction": "What kind of services are covered by the TMF Open API category 'Product & Service Management'?", "response": "Telecommunications."}
+{"instruction": "What types of resources are represented by REST APIs in TMF?", "response": "Collections."}
+{"instruction": "What is the goal of the ODA?", "response": "To offer a blueprint for a cloud native digital service provider."}
+{"instruction": "What framework, along with eTOM, is part of Total Quality Management?", "response": "ITIL."}
+{"instruction": "The TMF Open APIs are grouped into categories such as Customer Management and what else?", "response": "Service Assurance."}
+{"instruction": "What must the network infrastructure be based on for the autonomous networks hyperloop?", "response": "Intent extracted and decomposed into each layer."}
+{"instruction": "What is the primary function of the Business Process Framework (eTOM)?", "response": "It describes required business processes."}
+{"instruction": "What year was the Business Process Framework (eTOM) renamed in 2013?", "response": "2013."}
+{"instruction": "The Frameworx Overview course offers a certificate upon satisfactory completion of what?", "response": "The course attendance."}
